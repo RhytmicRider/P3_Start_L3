@@ -26,3 +26,4 @@ def test_oplopend():
 def test_random_dalingen():
     assert aantal_vakjes([3, 1, 4, 2, 5]) == 4
 
+test_vpw_testgevallen()
